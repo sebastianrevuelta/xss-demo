@@ -25,7 +25,10 @@ def _add_csp_header_hard(request):
         "img-src 'self';"
         "style-src 'self';"
         )
-
+def _connect_db(password="v7r8A*&TR^baht"):
+    # connection code here
+    return
+    
 def _connect_db(password="v7r8A*&TR^baht"):
     # connection code here
     return
