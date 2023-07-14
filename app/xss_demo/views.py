@@ -37,6 +37,10 @@ def _connect_db(password="v7r8A*&TR^baht"):
 def _connect_db(password="v7r8A*&TR^baht"):
     # connection code here
     return
+    
+def _connect_db(password="v7r8A*&TR^baht"):
+    # connection code here
+    return
 
 def _connect_db(password="v7r8A*&TR^baht"):
     # connection code here
